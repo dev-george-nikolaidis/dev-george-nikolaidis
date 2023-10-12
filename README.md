@@ -4,6 +4,5 @@
 <h3 align="left"> Tech Stack 
  React, Typescript, CSS ,Node.js, Express.js, SQL, MySQL, Postgres.</h3>
 
-- 👨‍💻 All of my projects are available at [www.georgiosnikolaidis.com](www.georgiosnikolaidis.com)
 
 - 📫 How to reach me **https://www.linkedin.com/in/dev-george-nikolaidis/**
