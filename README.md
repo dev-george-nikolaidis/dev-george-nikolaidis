@@ -10,5 +10,4 @@ I'm fascinated by technology, and web development is one of my passions. I'm a c
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-george-nikolaidis&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=dev-george-nikolaidis&icon=0&color=0)](https://visitcount.itsvg.in)
