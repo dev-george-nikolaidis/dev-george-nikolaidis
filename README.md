@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a keen interest in technology, particularly in web development. My curiosity drives me to constantly seek out new knowledge and aim for personal and professional growth daily. Beyond my professional endeavors, I am passionate about and actively contribute to open source projects. This engagement not only allows me to give back to the community, but also to refine my skills and collaborate with developers worldwide. If you're in search of a developer with both passion and a motivated mindset, I'd be eager to discuss how I can contribute. Feel free to reach out to me at dev.georgios.nikolaidis@gmail.com or send a direct message on LinkedIn.
+I have a keen interest in technology, particularly in web development. My curiosity drives me to constantly seek out new knowledge and aim for personal and professional growth daily. Beyond my professional endeavors, I am passionate about and actively contribute to open source projects. This engagement not only allows me to give back to the community, but also to refine my skills and collaborate with developers. If you're in search of a developer with both passion and a motivated mindset, I'd be eager to discuss how I can contribute. Feel free to reach out to me at dev.georgios.nikolaidis@gmail.com or send a direct message on LinkedIn.
 
 
 ## 🌐 Socials:
