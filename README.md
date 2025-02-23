@@ -3,7 +3,7 @@ I’m passionate about technology, especially web development, and I love using 
 
 I bring a solid work ethic and a growth-oriented mindset to every project, seeing challenges as opportunities to learn and improve. I also believe in creating a supportive environment that helps everyone thrive.
 
-If you’re looking for a developer who combines technical skills with strong communication and a drive to keep learning, let’s talk. Feel free to reach out at dev.georgios.nikolaidis@gmail.com 
+If you’re looking for a developer who combines technical skills with strong communication and a drive to keep learning, let’s talk. Feel free to reach out at contact@georgenikolaidis.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-george-nikolaidis) 
 
